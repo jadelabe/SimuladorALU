@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/alusymbol.png</file>
+        <file>Resources/WindowIcon.png</file>
+    </qresource>
+</RCC>
